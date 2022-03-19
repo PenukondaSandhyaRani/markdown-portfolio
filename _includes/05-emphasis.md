@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love **Cricket** and I like _Watching sports_ and if i'm __watching__ on *sports channel* then my __*brother*__ disturbs
